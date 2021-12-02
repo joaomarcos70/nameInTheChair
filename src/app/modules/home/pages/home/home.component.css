@@ -1,0 +1,7 @@
+.container-main{
+background-color: rgb(206, 206, 206);
+min-height: 80vh;
+max-width: 80vw;
+margin:6%;
+border: rgb(54, 55, 55) 12px solid;
+}
